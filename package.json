@@ -1,0 +1,11 @@
+{
+  "name": "coders.bvu",
+  "version": "1.0.0",
+  "description": "Website coders.bvu for it student bvu",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Yuu Yukimura",
+  "license": "ISC"
+}
